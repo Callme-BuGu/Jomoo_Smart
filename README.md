@@ -25,7 +25,7 @@
 3. 控制 / 设置 / 日志，状态每 3 秒自动更新
 
 ### Web（电脑 / 手机浏览器）
-- 在线访问：`https://jomoo.bugu-offical-cee.workers.dev`（已部署至 Cloudflare Workers）
+- 在线访问：`https://jm.bugu-offical.cn`（已部署至 CloudflarePages ）
 - 本地打开：双击 `电脑端-Web/九牧马桶控制-网页版.html`（连蓝牙需 HTTPS 或 localhost 环境）
 - 自部署：将 `电脑端-Web/worker.js` 内容粘贴至 Cloudflare Workers 编辑器保存即可
 
