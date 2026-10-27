@@ -63,7 +63,7 @@
 - 📌 要求：再分发时必须保留本许可全文与本项目的版权声明（**Required Notice**）；**修改后发布须注明原作者与修改者**
 
 ```
-Required Notice: Copyright 2026 Zhang Yixuan (张祎轩)
+Required Notice: Copyright 2026 BuGu
 ```
 
-Copyright © 2026 Zhang Yixuan (张祎轩). All rights reserved under the terms above.
+Copyright © 2026 BuGu. All rights reserved under the terms above.
